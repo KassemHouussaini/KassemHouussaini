@@ -1,1 +1,1 @@
-Hi, I am a doctoral researcher in Process Sustainability Engineering at CIRAIG - Montreal. I am currently working on optimzing the coupling of hydrothermal-biological technologies for biomass valorization using sustainability assessment methods like LCA,MFA,TEA. 
+Hi, I am a doctoral researcher in Process Sustainability Engineering at CIRAIG - Montreal. I am currently working on optimzing the coupling of hydrothermal-biological technologies for biomass valorization using sustainability assessment methods like LCA, MFA, and TEA. 
